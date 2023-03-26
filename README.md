@@ -1,5 +1,5 @@
 # Code for the Self-Modifying Code video
-Code created during recording the [Self-Modifying Code](https://youtu.be/PhMZYrzJBC8) video.
+Code created during recording the [Self-Modifying Code in Assembly](https://youtu.be/PhMZYrzJBC8) video.
 
 # Build
 ```
